@@ -3,13 +3,13 @@
 This project analyzes Black male college enrollment using 2023 American Community Survey (ACS) data.
 
 ## Tools Used
-- Stata
+- Stata (data analysis and modeling)
 - Survey-weighted analysis
 - Logistic regression
 - Descriptive statistics
 
 ## Overview
-This project examines how income, employment, region, and metropolitan status influence college enrollment among Black young adults ages 18–25. It also compares enrollment patterns between Black men and Black women.
+This project examines how income, employment, region, and metropolitan status influence college enrollment among Black young adults ages 18–25, and compares outcomes between Black men and Black women.
 
 ## Methods Used
 - Data cleaning and variable construction
